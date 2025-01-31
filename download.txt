@@ -4,3 +4,4 @@
 # UPDATED: 2025-01-30
 
 DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
