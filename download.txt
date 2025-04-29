@@ -3,5 +3,6 @@
 # USAGE: 下载专用链接
 # UPDATED: 2025-01-30
 
+DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
