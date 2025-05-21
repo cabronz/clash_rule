@@ -6,3 +6,4 @@
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,cloudflarestorage.com
